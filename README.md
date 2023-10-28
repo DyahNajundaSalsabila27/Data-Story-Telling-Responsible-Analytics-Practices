@@ -15,3 +15,17 @@ The contents of the dataset column contain:
 - Jadwal Distribusi : Scheduling the distribution of social assistance in each region
 - Tanggal Distribusi : Implementation of social assistance distribution in each region
 - Sembako: Contains any basic necessities that will be distributed
+
+
+## Data Story Telling
+Data storytelling is the process of communicating insights, information, or findings found in data in a narrative way that is compelling and understandable to a wider audience. In data storytelling, data is transformed into a story that has a clear narrative flow, a clear communication objective, and can move the audience to understand, respond, or take action based on the information presented.
+
+The following is story telling data using the Social Assistance Distribution Monitoring Dataset : 
+
+- Total beneficiaries by 5 highest sub-districts (Pie Circle Chart)
+  ![image](https://github.com/DyahNajundaSalsabila27/Data-Story-Telling-Responsible-Analytics-Practices/assets/73014611/3b5b5edc-317e-4941-8f3e-b9966322cdb4)
+  Story Telling :
+  Based on the data, the district with the highest number of aid recipients is Kramat Jati District, about 22.7% of the total KK revenue in Kramat Jati, which shows that this area has significant aid needs during the period of PSBB related to COVID-19.
+
+- Total social assistance recipients per City Region
+- 
