@@ -42,3 +42,22 @@ Story Telling : Based on the data, it can be seen that the lowest number of reci
 - Total distribution of basic food items(Barplot Chart)
   ![image](https://github.com/DyahNajundaSalsabila27/Data-Story-Telling-Responsible-Analytics-Practices/assets/73014611/56b82ae6-9169-4a8b-8826-75f4251a0c2a)
 Story Telling : Based on the data above, it can be seen that the types of food are distributed equally. such as rice, biscuits, masks, soap, oil and canned sardines
+
+
+## Responsible Analytics Practices
+Responsible analytics practices refer to a set of guidelines, ethics, and practices applied by data analytics professionals, data scientists, and related practitioners in order to use data and data analysis with ethical consideration, fairness, and transparency. The goal of responsible analytics practices is to ensure that data and analysis results are used in a way that supports moral and social values and minimizes the risk of negative impacts.
+
+### Data Privacy and Best Practices
+1. Data Privacy Laws 
+Data privacy laws, also known as data protection laws, are legal regulations governing the collection, use, processing, storage and sharing of personal data. These laws are designed to protect the privacy and rights of individuals by imposing certain obligations on organizations, businesses, and other entities that handle personal data.
+
+- General Data Protection Regulation (GDPR)
+  Applicable in the European Union, GDPR is one of the most comprehensive data privacy regulations, setting high standards for data protection.
+- Family Educational Rights and Privacy Act (FERPA)
+  federal laws in the United States governing privacy and access to educational data. FERPA gives parents and students the right to access and control their education data.
+- Health Insurance Portability and Accountability Act (HIPAA)
+  Federal laws governing the privacy and security of health information. HIPAA applies to healthcare entities and sets privacy and security standards for medical data.
+- Institutional Review Board (IRB)
+  an ethics committee tasked with assessing, monitoring, and protecting the rights and welfare of human research subjects in scientific research. The IRB ensures that research involving human subjects is conducted ethically and adheres to privacy and security standards.
+- Payment Card Industry (PCI)
+  data security standards that apply to organizations that manage credit card payment data. It regulates payment data security and requires organizations to protect customer credit card information.
